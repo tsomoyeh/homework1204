@@ -1,0 +1,38 @@
+body{
+	background-color: grey;
+}
+@media screen and(min-width: 480px){
+body{
+	background-color:orange;
+}
+}
+
+.A{
+	border: 1px orange;
+	background-color:pink; 
+	color: blue;
+	font-size: 30%;
+    margin-left:auto;
+    margin-right:auto;
+}
+#B{
+	border:1px orange;
+	color: green
+	font-size: 100%;
+	margin-left:auto;
+   margin-right:auto;
+}
+#C{
+	border:1px orange;
+	color: brown
+	font-size: 100%;
+	margin-left:auto;
+   margin-right:auto;
+}
+.D{
+	float:left;
+	margin:10% 10% 10% 10%;
+}
+
+
+
